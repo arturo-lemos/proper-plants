@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
+
+.plantShop {
+  gap: 5rem;
+}
+
+button {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
